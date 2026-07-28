@@ -18,11 +18,6 @@
 > [!TIP]
 > If the [Amnezia website](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) is blocked in your region, you can use an [Alternative website link](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en-mirror).
 
-<a href="https://amnezia.org/en/downloads?utm_source=github&utm_campaign=amnezia_button-readme-en"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/download-website.svg" width="150" style="max-width: 100%; margin-right: 10px"></a>
-<a href="https://storage.googleapis.com/amnezia/amnezia.org?m-path=/en/downloads&utm_source=github&utm_campaign=amnezia_button-readme-en-mirrow"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/download-alt.svg" width="150" style="max-width: 100%;"></a>
-
-[All releases](https://github.com/amnezia-vpn/amnezia-client/releases)
-
 <br/>
 
 <a href="https://www.testiny.io"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/testiny.png" height="28px"></a>
@@ -36,17 +31,6 @@
 - Windows, MacOS, Linux, Android, iOS releases.
 - Support for AmneziaWG protocol configuration on [Keenetic beta firmware](https://docs.keenetic.com/ua/air/kn-1611/en/6319-latest-development-release.html#UUID-186c4108-5afd-c10b-f38a-cdff6c17fab3_section-idm33192196168192-improved).
 
-## Links
-
-- [https://amnezia.org](https://amnezia.org/?utm_source=github&utm_campaign=amnezia_website-read) - Project website | [Alternative link (mirror)](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_campaign=amnezia_website-read)
-- [https://docs.amnezia.org](https://docs.amnezia.org/?utm_source=github&utm_campaign=amnezia_website-read) - Documentation | [Alternative link (mirror)](https://storage.googleapis.com/amnezia/docs?utm_source=github&utm_campaign=amnezia_website-read)
-- [https://www.reddit.com/r/AmneziaVPN](https://www.reddit.com/r/AmneziaVPN) - Reddit  
-- [https://telegram.me/amnezia_vpn_en](https://telegram.me/amnezia_vpn_en) - Telegram support channel (English) 
-- [https://telegram.me/amnezia_vpn_ir](https://telegram.me/amnezia_vpn_ir) - Telegram support channel (Farsi) 
-- [https://telegram.me/amnezia_vpn_mm](https://telegram.me/amnezia_vpn_mm) - Telegram support channel (Myanmar)  
-- [https://telegram.me/amnezia_vpn](https://telegram.me/amnezia_vpn) - Telegram support channel (Russian)
-- [Get Premium for 6 or 12 months](https://storage.googleapis.com/amnezia/pay?utm_source=github&utm_campaign=ampay-read)
-
 ## Tech
 
 AmneziaVPN uses several open-source projects to work:
@@ -59,19 +43,6 @@ AmneziaVPN uses several open-source projects to work:
 - [Xray-core](https://xtls.github.io/en/)
 - [Conan](https://conan.io/)
 - and more...
-
-## Help us with translations
-
-Download the most actual translation files.
-
-Go to ["Actions" tab](https://github.com/amnezia-vpn/amnezia-client/actions?query=is%3Asuccess+branch%3Adev), click on the first line.
-Then scroll down to the "Artifacts" section and download "AmneziaVPN_translations".
-
-Unzip this file.
-Each *.ts file contains strings for one corresponding language.
-
-Translate or correct some strings in one or multiple *.ts files and commit them back to this repository into the ``client/translations`` folder.
-You can do it via a web-interface or any other method you're familiar with.
 
 ## Checking out the source code
 
@@ -169,17 +140,3 @@ deploy/build.bat --installer all
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (see LICENSE) and also includes third-party components distributed under their own terms (see THIRD_PARTY_LICENSES.md).
-
-## Donate
-
-Patreon: [https://www.patreon.com/amneziavpn](https://www.patreon.com/amneziavpn)
-
-Bitcoin: bc1qmhtgcf9637rl3kqyy22r2a8wa8laka4t9rx2mf <br>
-USDT BEP20: 0x6abD576765a826f87D1D95183438f9408C901bE4 <br>
-USDT TRC20: TELAitazF1MZGmiNjTcnxDjEiH5oe7LC9d <br>
-XMR: 48spms39jt1L2L5vyw2RQW6CXD6odUd4jFu19GZcDyKKQV9U88wsJVjSbL4CfRys37jVMdoaWVPSvezCQPhHXUW5UKLqUp3 <br> 
-TON: UQDpU1CyKRmg7L8mNScKk9FRc2SlESuI7N-Hby4nX-CcVmns
-## Acknowledgments
-
-This project is tested with BrowserStack.
-We express our gratitude to [BrowserStack](https://www.browserstack.com) for supporting our project.
