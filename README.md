@@ -2,25 +2,12 @@
 
 ### _The best client for self-hosted VPN_
 
-
-[![Build Status](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml/badge.svg?branch=dev)](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/amnezia-vpn/amnezia-client)
-
 ### [English]([https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md](https://github.com/amnezia-vpn/amnezia-client/tree/dev?tab=readme-ov-file#)) | [Русский](https://github.com/amnezia-vpn/amnezia-client/blob/dev/README_RU.md)
 
 
 [Amnezia](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
 
 [![Image](https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/uipic4.png)](https://amnezia.org)
-
-### [Website](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) | [Alt website link](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en-mirror) | [Documentation](https://docs.amnezia.org) | [Troubleshooting](https://docs.amnezia.org/troubleshooting)
-
-> [!TIP]
-> If the [Amnezia website](https://amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en) is blocked in your region, you can use an [Alternative website link](https://storage.googleapis.com/amnezia/amnezia.org?utm_source=github&utm_campaign=amnezia_website-readme-en-mirror).
-
-<br/>
-
-<a href="https://www.testiny.io"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/testiny.png" height="28px"></a>
 
 ## Features
 
